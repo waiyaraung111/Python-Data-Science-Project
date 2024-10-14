@@ -81,8 +81,4 @@ To use the notebook:
 
 
 
-### Additional Notes:
-- If you have a **requirements.txt** file for the dependencies, make sure to include that in the repository and reference it in the **Installation** section.
-- Feel free to add any more specific details related to your project or custom analysis performed.
 
-Let me know if you need further adjustments!
